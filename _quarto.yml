@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PAD — APA Estuarina de Santa Cruz"
+  description: "Projeto de Intervenção em Área Degradada — Ilha de Itamaracá, PE"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Apresentação"
+      - href: secao1.qmd
+        text: "1. Memorial Descritivo"
+      - href: secao2.qmd
+        text: "2. Limiares e Degradação"
+      - href: secao3.qmd
+        text: "3. Metas"
+      - href: secao4.qmd
+        text: "4. Atores e Governança"
+      - href: secao5.qmd
+        text: "5. Intervenções"
+      - href: secao6.qmd
+        text: "6. Síntese"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-title: "Nesta página"
+    number-sections: true
+    code-fold: true

@@ -1,0 +1,50 @@
+---
+title: "Referências Bibliográficas"
+author: "Itamar Guedes de Lima Júnior"
+date: "2026-10-13"
+format: html
+---
+
+::: {.callout-note}
+## Compilação de Fontes e Literatura Científica
+Esta página reúne a bibliografia técnica e científica utilizada para o diagnóstico, fundamentação teórica, delimitação de metas e planejamento operacional do **Projeto de Intervenção em Área Degradada (PAD)** na APA Estuarina de Santa Cruz, Ilha de Itamaracá, PE.
+:::
+
+## 1. Referencial Teórico de Ecologia da Restauração
+
+* **ARONSON, J.; ALEXANDER, S.** (2013). Restoration Science as a Field of Research and Practice. *Restoration Ecology*, v. 21, n. 1, p. 1–3.
+* **CHAZDON, R. L.** (2014). *Second Growth: The Promise of Tropical Forest Regeneration in an Age of Deforestation*. Chicago: University of Chicago Press, 300 p.
+* **FAHRIG, L.** (2003). Effects of Habitat Fragmentation on Biodiversity. *Annual Review of Ecology, Evolution, and Systematics*, v. 34, p. 487–515.
+* **GANN, G. D. et al.** (2019). International principles and standards for the practice of ecological restoration. *Restoration Ecology*, v. 27, n. S1, p. S1–S46.
+* **HARRIS, J. A. et al.** (2006). Ecological Restoration and Global Climate Change. *Restoration Ecology*, v. 14, n. 2, p. 170–176.
+* **HOBBS, R. J. et al.** (2006). Novel Ecosystems: Theoretical and Management Aspects of the New Ecological World Order. *Global Ecology and Biogeography*, v. 15, n. 1, p. 1–7.
+* **HOBBS, R. J.; HIGGS, E. S.; HALL, C. M.** (2014). Managing the Whole Landscape: Historical, Hybrid, and Novel Ecosystems. *Frontiers in Ecology and the Environment*, v. 12, n. 10, p. 557–564.
+* **MCDONALD, T. et al.** (2016). *International Standards for the Practice of Ecological Restoration - Including Principles and Key Concepts*. Washington, DC: Society for Ecological Restoration (SER).
+* **SCHEFFER, M.** et al. (2001). Catastrophic Shifts in Ecosystems. *Nature*, v. 413, p. 591–596.
+* **SOCIETY FOR ECOLOGICAL RESTORATION - SER** (2023). *Principles of Ecological Restoration*. 3rd ed. Washington, DC: SER.
+* **SUGANUMA, M. S.; DURIGAN, G.** (2018). Indicators of Restoration Success in Atlantic Forest: A Review. *Restoration Ecology*, v. 26, n. 4, p. 642–651.
+
+---
+
+## 2. Diagnóstico Ambiental, Legislação e Gestão Territorial
+
+* **BRASIL.** Lei nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção da vegetação nativa (Código Florestal Brasileiro). *Diário Oficial da União*, Brasília, DF, 2012.
+* **CPRH - AGÊNCIA ESTADUAL DE MEIO AMBIENTE DE PERNAMBUCO.** (2010). *Plano de Manejo do Zoneamento Ambiental da Área de Proteção Ambiental Estuarina de Santa Cruz — Itapissuma, Itamaracá e Goiana, PE*. Execução: FADURPE. Recife: CPRH, 180 p.
+* **GOVERNO DO ESTADO DE PERNAMBUCO.** (2003). *Diagnóstico Socioambiental do Litoral Norte de Pernambuco*. Recife: CPRH / SECTMA.
+* **MAPBIOMAS BRASIL.** (2025). *Mapeamento Anual do Uso e Cobertura da Terra no Brasil (Coleção 10, dados 1985–2025)*. Estatísticas do Município da Ilha de Itamaracá, PE (Categoria Municípios Costeiros). Plataforma MapBiomas.
+
+---
+
+## 3. Pesquisa Biológica e Estudos Locais na Ilha de Itamaracá
+
+* **LIMA JÚNIOR, I. G.** (2026). *Biologia Reprodutiva e Desenvolvimento Gonadal do Siri-Pimenta (Callinectes marginatus) na APA Estuarina de Santa Cruz, PE*. Relatório Final de Iniciação Científica (PIBIC/CNPq/UFPE). Recife: Universidade Federal de Pernambuco, 35 p.
+* **PEDROSA, R. A.** (2007). *Pesca, Perfil Socioeconômico e Percepção Ecológica dos Pescadores Artesanais de Porto de Galinhas e Litoral Norte de Pernambuco*. Dissertação (Mestrado em Recursos Pesqueiros) — Universidade Federal Rural de Pernambuco, Recife, 112 p.
+* **SCHAEFFER-NOVELLI, Y.** (2018). *Ecossistemas Costeiros: Estrutura, Função e Conservação dos Manguezais Brasileiros*. São Paulo: Editora Blucher, 180 p.
+* **WILLIAMS, A. B.** (1974). The swimming crabs of the genus *Callinectes* (Decapoda: Portunidae). *Fishery Bulletin*, v. 72, n. 3, p. 685–798.
+
+---
+
+## 4. Documentos da Disciplina e Roteiros Orientadores
+
+* **MELO, F.** (2026). *Roteiro de Avaliação Final: Projeto de Intervenção em Área Degradada (PAD)*. Disciplina de Ecologia da Restauração. Recife: Universidade Federal de Pernambuco (UFPE).
+* **MELO, F.** (2026). *Tutorial: Começando com uma página Web em Quarto e RStudio*. Disciplina de Ecologia da Restauração. Recife: UFPE.

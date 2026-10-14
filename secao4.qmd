@@ -1,0 +1,77 @@
+---
+title: "Seção 4 — Mapeamento de Atores Socioambientais e Análise de Governança"
+author: "Itamar Guedes de Lima Júnior"
+date: "2026-10-09"
+format: html
+---
+
+::: {.callout-note}
+## Declaração de Uso de Ferramentas de IA
+Este documento contou com o auxílio de ferramenta de inteligência artificial exclusivamente para suporte técnico à formatação em linguagem Quarto (.qmd) e revisão ortográfica, mantendo-se integralmente a autoria, a fundamentação científica e os dados originais do diagnóstico de campo e do PIBIC UFPE.
+:::
+
+## 1. Mapeamento de Atores Socioambientais (Stakeholder Mapping)
+
+A restauração ecológica da Ilha de Itamaracá envolve um mosaico complexo de agentes sociais, institucionais e econômicos com interesses diversos sobre o território e seus recursos estuarinos. A Tabela 1 detalha os principais atores identificados na APA Estuarina de Santa Cruz, sua relação com o espaço, posicionamento estimado frente às ações restaurativas e nível de poder de influência político-institucional.
+
+### Tabela 1: Matriz de Mapeamento dos Atores Socioambientais da Ilha de Itamaracá
+
+| Categoria | Ator / Instituição | Relação com a Área de Intervenção | Posição Estimada | Poder de Influência |
+| :--- | :--- | :--- | :---: | :---: |
+| **Comunidades Tradicionais e Usuários** | Colônia de Pescadores Z-11 (Ilha de Itamaracá) | Extrativismo pesqueiro de subsistência e comercialização de pescados e siri-pimenta (*Callinectes marginatus*); dependência direta da qualidade do estuário. | Favorável | Médio |
+| **Comunidades Tradicionais e Usuários** | Unidades Familiares e Marisqueiras do Pilar e Jaguaribe | Beneficiamento artesanal de carne de siri e peixe; uso das bordas periurbanas para acesso aos canais estuarinos. | Favorável | Baixo |
+| **Comunidades Tradicionais e Usuários** | Moradores e População Periurbana da Ilha | Ocupação residencial nas faixas de borda e interior insular; geração de efluentes sanitários e resíduos urbanos. | Neutro / Favorável | Baixo |
+| **Órgãos Públicos de Gestão e Fiscalização** | CPRH (Agência Estadual de Meio Ambiente de Pernambuco) | Órgão gestor da APA Estuarina de Santa Cruz; responsável pelo licenciamento, fiscalização e implementação do Plano de Manejo. | Favorável | Alto |
+| **Órgãos Públicos de Gestão e Fiscalização** | Prefeitura Municipal da Ilha de Itamaracá | Gestão do uso do solo urbano, limpeza pública, saneamento básico e aplicação do Plano Diretor Municipal. | Neutro / Favorável | Alto |
+| **Órgãos Públicos de Gestão e Fiscalização** | ICMBio e IBAMA | Fiscalização ambiental federal na zona costeira e auxílio na proteção de ecossistemas de manguezal e fauna associada. | Favorável | Alto |
+| **Setor Produtivo e Empresarial** | Setor Imobiliário e Proprietários de Imóveis de Veraneio | Ocupação de terrenos na orla e segunda residência; interesse na valorização paisagística e expansão de infraestrutura. | Neutro / Contrário | Alto |
+| **Setor Produtivo e Empresarial** | Comércio Local e Setor Gastronômico/Turístico | Comercialização de pescados e recepção do fluxo turístico estival na orla do Pilar e praias praianas. | Neutro / Favorável | Médio |
+| **Pesquisa e Academia** | Universidade Federal de Pernambuco (UFPE) | Produção de conhecimento científico, monitoramento biológico estuarino (PIBIC/UFPE) e suporte técnico à restauração. | Favorável | Médio |
+| **Organizações Não-Governamentais** | ONGs Conservacionistas Regionais (ex.: CEPAN) | Apoio técnico a projetos de recuperação florestal, conservação de manguezais e captação de recursos ambientais. | Favorável | Médio |
+
+---
+
+## 2. Análise de Conflitos e Sinergias Potenciais
+
+A interpretação das relações socioambientais na Ilha de Itamaracá, sob a ótica da ecologia política e da governança ambiental, revela tensões históricas sobre o uso do espaço e dos recursos estuarinos.
+
+### 2.1 Conflitos de Interesse
+1. **Saneamento Urbano *versus* Produtividade Pesqueira:** A ausência de sistema eficiente de esgotamento sanitário na ilha resulta no descarte de efluentes domésticos *in natura* nos canais estuarinos. O setor imobiliário e a gestão municipal postergam investimentos em saneamento básico devido aos custos elevados, enquanto as famílias da Colônia Z-11 e marisqueiras absorvem os custos socioecológicos da perda de qualidade da água e contaminação do berçário.
+2. **Especulação Imobiliária *versus* Conservação de APP:** A conversão de áreas de Preservação Permanente (APP) em edificações e acessos turísticos privados gera conflito direto com as diretrizes de zoneamento da APA de Santa Cruz (Subzonas ARC e APR da CPRH) e limita o livre acesso das comunidades de pesca tradicional ao estuário.
+
+### 2.2 Sinergias Potenciais
+1. **Co-gestão entre Pesca Artesanal e Recuperação Ambiental:** A Colônia Z-11 e as comunidades ribeirinhas possuem interesse direto no restabelecimento da qualidade da água e na retenção do lixo plástico. A instalação de ecobarreiras comunitárias e biofiltros (wetlands) representa um ponto de convergência entre os objetivos de conservação da CPRH e as demandas econômicas da pesca local.
+2. **Integração Acadêmico-Institucional:** A parceria entre a UFPE (fornecendo dados científicos contínuos sobre o recrutamento de decápodes) e a CPRH fortalece o monitoramento adaptativo previsto no Plano de Manejo da APA.
+
+---
+
+## 3. As Quatro Perguntas da Ecologia Política Aplicadas à Área
+
+Responder às questões centrais da ecologia política é fundamental para evitar a "restauração verde" (*greenwashing*) e garantir a equidade social do projeto:
+
+1. **Quem financia a restauração proposta e quais são seus interesses?**
+   * *Resposta:* O financiamento do projeto apoia-se em recursos de Compensação Ambiental geridos pela CPRH/SEUC, editais públicos de fomento (como o Fundo Estadual de Meio Ambiente - FEMA/PE) e parcerias com o setor privado imobiliário/turístico local a título de mitigação de impacto. Os interesses institucionais residem no cumprimento do Plano de Manejo da APA, enquanto os financiadores privados buscam regularização ambiental e valorização reputacional.
+
+2. **Quem se beneficia com as intervenções?**
+   * *Resposta:* Os beneficiários diretos são as famílias de pescadores artesanais da Colônia Z-11 e marisqueiras do Pilar e Jaguaribe, que dependem da manutenção dos estoques do siri-pimenta (*Callinectes marginatus*) e da salubridade do estuário. A população local e os visitantes também se beneficiam com a melhoria da qualidade sanitária e paisagística da ilha.
+
+3. **Quem pode perder acesso ou direitos?**
+   * *Resposta:* O projeto não propõe o cerceamento da pesca artesanal nem o desabrigo de populações tradicionais. Podem ocorrer restrições pontuais e temporárias ao lançamento desordenado de efluentes sanitários sem tratamento e ao aterro informal de bordas de manguezal, afetando infratores imobiliários e ocupações irregulares de grande porte.
+
+4. **Que conhecimentos são incorporados e quais são excluídos?**
+   * *Resposta:* O planejamento integra o Conhecimento Ecológico Local (CEL) das marisqueiras e pescadores (rotas de maré, períodos de safra e locais de acúmulo de resíduos) ao rigor científico da ecologia da restauração e aos monitoramentos do PIBIC/UFPE. Evita-se a exclusão do saber empírico tradicional em favor de soluções exclusivamente tecnocráticas.
+
+---
+
+## 4. Estratégia de Engajamento Progressivo dos Atores
+
+Para assegurar governança participativa e sustentabilidade institucional ao longo dos 10 anos do projeto, a estratégia de engajamento será executada em quatro fases sequenciais:
+
+### Tabela 2: Cronograma das Fases de Engajamento e Participação Social
+
+| Fase / Momento | Atores Envolvidos | Formato da Ação | Objetivo Principal |
+| :--- | :--- | :--- | :--- |
+| **Fase 1: Diagnóstico Participativo (Mês 1 a 3)** | Colônia Z-11, Marisqueiras do Pilar e Lideranças Comunitárias | Oficinas Comunitárias e Cartografia Participativa | Mapear saberes locais sobre pontos de contaminação e validar o diagnóstico ecológico de campo. |
+| **Fase 2: Articulação Institucional (Mês 4 a 6)** | CPRH, Prefeitura de Itamaracá, UFPE e COMPESA | Reuniões Técnicas do Conselho Gestor da APA | Alinhar o licenciamento das ecobarreiras/biofiltros e formalizar compromissos de fiscalização do esgoto. |
+| **Fase 3: Co-execução e Mutirões (Mês 7 a 12)** | Pescadores, Moradores, Escolas Locais e ONGs | Mutirões de Instalação e Oficinas de Educação Ambiental | Montagem comunitária das ecobarreiras e plantio nucleativo de enriquecimento nas clareiras de borda. |
+| **Fase 4: Monitoramento Compartilhado (Anos 2 a 10)** | Comitê Local de Acompanhamento (Pescadores + UFPE + CPRH) | Consultas Públicas Anuais e Encontros de Acompanhamento | Avaliar os indicadores de recuperação, apresentar resultados à comunidade e aplicar manejo adaptativo. |

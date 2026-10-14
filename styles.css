@@ -1,0 +1,140 @@
+/*-- scss:rules --*/
+/* Theme Customizado: Manguezal e Estuário (APA Santa Cruz / Itamaracá) */
+
+/* Paleta de Cores:
+   - Verde Mangue Profundo: #1b4332
+   - Verde Folha de Mangue: #2d6a4f
+   - Verde Menta / Água Estuarina: #52b788 / #74c69d
+   - Azul Estuarino / Oceânico: #0077b6
+   - Fundo Suave / Areia Estuarina: #f8f9fa / #f4f7f5
+*/
+
+:root {
+  --bs-primary: #1b4332;
+  --bs-primary-rgb: 27, 67, 50;
+  --bs-secondary: #0077b6;
+  --bs-success: #2d6a4f;
+  --bs-info: #0a9396;
+  --bs-link-color: #2d6a4f;
+  --bs-link-hover-color: #1b4332;
+}
+
+/* Navbar Customizada */
+.navbar {
+  background: linear-gradient(135deg, #0f3d3e 0%, #1b4332 100%) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border-bottom: 3px solid #52b788;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #74c69d !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: #94d2bd !important;
+  font-weight: 700;
+  border-bottom: 2px solid #94d2bd;
+}
+
+/* Títulos das Páginas */
+h1, h2, h3, .title {
+  color: #1b4332;
+  font-weight: 700;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+h1.title {
+  border-bottom: 3px solid #52b788;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  border-left: 4px solid #2d6a4f;
+  padding-left: 10px;
+  margin-top: 1.5em;
+}
+
+/* Tabelas com Estilo de Manguezal */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+thead th, table.table thead th {
+  background-color: #1b4332 !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  padding: 12px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f4f7f5;
+}
+
+tbody tr:hover {
+  background-color: #e8f0ec;
+}
+
+/* Callouts / Caixas de Destaque */
+.callout {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.callout-note {
+  border-left-color: #2d6a4f !important;
+  background-color: #f0f7f3 !important;
+}
+
+.callout-note .callout-header {
+  color: #1b4332 !important;
+  font-weight: 600;
+}
+
+.callout-info {
+  border-left-color: #0077b6 !important;
+  background-color: #edf7fc !important;
+}
+
+.callout-info .callout-header {
+  color: #005f73 !important;
+  font-weight: 600;
+}
+
+.callout-warning {
+  border-left-color: #ca6702 !important;
+  background-color: #fdf8f2 !important;
+}
+
+/* Sumário Lateral (TOC) */
+#TOC {
+  border-left: 2px solid #d8e2dc;
+  padding-left: 12px;
+}
+
+#TOC a.nav-link.active {
+  color: #1b4332 !important;
+  font-weight: bold;
+  border-left: 2px solid #2d6a4f;
+}
+
+/* Rodapé das Imagens / Captions */
+figure figcaption {
+  color: #525252;
+  font-style: italic;
+  text-align: center;
+  margin-top: 6px;
+}

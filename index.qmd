@@ -1,0 +1,35 @@
+---
+title: "Projeto de Intervenção em Área Degradada (PAD)"
+subtitle: "Restauração Ecológica no Manguezal Periurbano da APA Estuarina de Santa Cruz (Ilha de Itamaracá, PE)"
+author: "Itamar Guedes de Lima Júnior"
+date: "2026-10-01"
+format: html
+---
+
+# Bem-vindo ao Workbook do Projeto
+
+Este site reúne a proposta técnica e científica do **Projeto de Intervenção em Área Degradada (PAD)**, desenvolvido para a disciplina de Ecologia da Restauração (UFPE). 
+
+O projeto tem como foco uma área de manguezal periurbano degradada na **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**, no município da Ilha de Itamaracá, Pernambuco.
+
+::: {.callout-info}
+## Resumo do Projeto
+- **Localização:** Canal de Santa Cruz, Ilha de Itamaracá - PE
+- **Coordenadas de Referência:** 7°46'36.48" S, 34°53'43.04" O
+- **Área de Intervenção:** 5,4 hectares
+- **Ecossistema:** Manguezal estuarino (Mata Atlântica)
+- **Problemática Principal:** Expansão urbana desordenada, lançamento de efluentes e xenobióticos, e perda de habitat de berçário pesqueiro artesanal (*Callinectes marginatus* e peixes estuarinos).
+:::
+
+---
+
+## Estrutura do Documento
+
+Acesse os tópicos no menu superior para navegar pelas etapas do projeto:
+
+1. **[1. Memorial Descritivo](secao1.qmd):** Caracterização geográfica, ecológica e histórica da área.
+2. **[2. Limiares e Degradação](secao2.qmd):** Diagnóstico de fontes de degradação e resiliência.
+3. **[3. Metas](secao3.qmd):** Definição de metas e indicadores de restauração.
+4. **[4. Atores e Governança](secao4.qmd):** Mapeamento de partes interessadas e arranjo institucional.
+5. **[5. Intervenções](secao5.qmd):** Plano de ação, técnicas de restauração e viabilidade.
+6. **[6. Síntese](secao6.qmd):** Quadro resumido, cronograma e considerações finais.
