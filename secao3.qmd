@@ -14,63 +14,50 @@ Este documento contou com o suporte de inteligência artificial (Gemini Notebook
 
 A definição do estado-alvo para a Ilha de Itamaracá apoia-se no conceito de **ecossistema de referência dinâmico** (SER, 2023; Gann et al., 2019), superando o modelo estático de reconstituição histórica intocada. O ecossistema de referência é ancorado nos remanescentes bem preservados de **manguezal estuarino do Canal de Santa Cruz** (a exemplo da Subzona de Preservação Ecológica) e fragmentos de vegetação de transição de Mata Atlântica e restinga da ilha.
 
-* **Composição Esperada:** Floresta halófita neotropical dominada pelas espécies arbóreas nativas de mangue: mangue-vermelho (*Rhizophora mangle*), mangue-preto (*Avicennia schaueriana*), mangue-branco (*Laguncularia racemosa*) e mangue-de-botão (*Conocarpus erectus*).
-* **Estrutura e Funcionalidade:** Dossel arbóreo contínuo com altura variando entre 8 e 15 metros, densa rede de pneumatóforos e rizóforos para dissipação da energia das marés, e substrato lamoso rico em matéria orgânica com atividade benthica intensa (brachyuros e moluscos).
-* **Adequação às Mudanças Climáticas Futuras:** Considerando as projeções de subida do nível relativo do mar e o paradigma do não-equilíbrio (Hobbs et al., 2014), o ecossistema de referência incorpora a plasticidade estrutural do manguezal para migração "continente adentro" sobre zonas de ecótono e restinga, priorizando a manutenção da diversidade funcional e dos serviços ecossistêmicos.
+O ecossistema de referência incorpora a resiliência climática e a capacidade de adaptação do manguezal às variações de salinidade e subida do nível do mar, estabelecendo metas orientadas para a integridade funcional sob o paradigma dos ecossistemas híbridos.
 
 ---
 
-## 2. Metas Operacionais por Atributo (SER Recovery Star)
+## 2. Metas Operacionais por Atributo (Estrela da Recuperação da SER)
 
-As metas de restauração foram estruturadas em alinhamento com os cinco grupos de atributos da **Estrela da Recuperação da SER** (*Society for Ecological Restoration*, 2023), estabelecendo indicadores mensuráveis, valores-alvo, prazos e métodos de verificação.
+A Tabela 1 detalha os indicadores quantitativos, valores-alvo, prazos e métodos de monitoramento organizados segundo as 6 categorias de atributos da SER.
 
-| Grupo de Atributo (SER) | Indicador | Valor-Alvo | Prazo | Método de Verificação |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Ausência de Ameaças** | Carga orgânica e esgoto doméstico *in natura* na orla urbana | Redução de 80% do efluente sem tratamento descartado no estuário | Ano 3 | Análise laboratorial de DBO, coliformes e oxigênio dissolvido (OD) |
-| **1. Ausência de Ameaças** | Densidade de resíduos plásticos retidos no solo e raízes | $< 2$ itens plásticos por $10\text{ m}^2$ nas zonas de amostragem | Ano 2 | Transectos lineares e pesagem de resíduos coletados |
-| **2. Integridade Abiótica** | Oxigenação do sedimento estuarino e transparência da água | Ausência de zonas permanentes de anoxia; OD $> 4,5\text{ mg/L}$ | Ano 3 | Sondagens de pH, oxigênio dissolvido e potencial redox no solo |
-| **3. Composição de Espécies** | Riqueza e densidade de plântulas nativas de mangue | Presença das 3 espécies dominantes ($> 5$ plântulas $/ \text{m}^2$) | Ano 2 | Parcelas de regeneração natural ($5\times 5\text{ m}$) |
-| **4. Estrutura do Ecossistema**| Cobertura do dossel e integridade das bordas alteradas | Cobertura do dossel $> 75\%$ em clareiras e bordas recuperadas | Ano 5 | Densiômetro esférico e análise de imagens de VANT/Satélite |
-| **5. Funcionamento Ecológico**| Densidade de juvenis de siri-pimenta (*C. marginatus*) | Manutenção do padrão de berçário ($> 60\%$ de imaturos) | Ano 3 | Amostragem biológica periódica com armadilhas (manzuás) |
+### Tabela 1: Metas operacionais e indicadores de monitoramento (SER, 2019, 2023).
 
----
-
-## 3. Metas de Funcionalidade Ecossistêmica
-
-Além dos atributos estruturais, o projeto estabelece duas metas focadas nos processos ecológicos fundamentais:
-
-1. **Restabelecimento da Dinâmica de Hidrocoria e Recrutamento Natural:**  
-   * **Meta:** Garantir a circulação hídrica diária das marés sem barreiras físicas ou entulhos, permitindo o transporte livre de propágulos de *Rhizophora mangle* e *Avicennia schaueriana* para autocolonização de áreas desnudas em até 24 meses (Ano 2).
-2. **Manutenção do Papel de Berçário Estuarino para a Fauna:**  
-   * **Meta:** Assegurar a continuidade das funções de abrigo e alimentação para juvenis de decápodes e peixes estuarinos, mantendo a proporção de indivíduos imaturos de *Callinectes marginatus* acima de 65% nas áreas de amostragem do canal interno durante todo o horizonte do projeto (Anos 1 a 10).
+| Atributo SER | Indicador de Monitoramento | Valor-Alvo (Estado Desejado) | Prazo | Método de Verificação |
+| :--- | :--- | :--- | :---: | :--- |
+| **1. Ausência de Ameaças** | Carga de esgoto sanitário e massa de lixo plástico retido | Redução de 80% do efluente sem tratamento na borda; remoção contínua do plástico | Ano 3 | Análise de DBO/coliformes na água e pesagem quinzenal de resíduos retidos nas ecobarreiras |
+| **2. Integridade Abiótica** | Oxigênio Dissolvido (OD) no sedimento e transparência da água | OD na água estuarina $> 4.0	ext{ mg/L}$; ausência de zonas de anoxia permanente | Ano 2 | Sondagem físico-química mensal (sonda multiparâmetros em maré baixa) |
+| **3. Composição de Espécies** | Riqueza e densidade de plântulas nativas de mangue | Presença das 3 espécies dominantes (*Rhizophora mangle*, *Avicennia schaueriana*, *Laguncularia racemosa*) com $> 5$ plântulas $/ 	ext{m}^2$ | Ano 2 | Parcelas permanentes de regeneração natural ($5	imes 5	ext{ m}$) |
+| **4. Estrutura do Ecossistema** | Cobertura do dossel arbóreo e densidade de pneumatóforos | Cobertura do dossel $> 75\%$ em áreas de borda e densidade de raízes livre de resíduos | Ano 5 | Análise de fotografias hemisféricas de dossel e contagem de raízes por $	ext{m}^2$ |
+| **5. Funcionamento Ecológico** | Densidade de juvenis de decápodes (*Callinectes marginatus*) e peixes | Manutenção do padrão de recrutamento de juvenis ($> 60\%$ de organismos imaturos) | Ano 3 | Amostragem biológica padronizada (redes de arrasto e armadilhas em pontos de monitoramento do PIBIC) |
+| **6. Conectividade Externa** | Continuidade do corredor estuarino e fluxo de propágulos | Ausência de barreiras físicas e químicas ao longo do Canal de Santa Cruz | Ano 1 | Mapeamento de sobrevoo por drone e geoprocessamento da calha estuarina |
 
 ---
 
-## 4. Metas de Serviços para as Pessoas (Roda de Benefícios Sociais da SER)
+## 3. Metas de Funcionalidade Ecossistêmica e Serviços Prestados
 
-Ancoradas na **Roda de Benefícios Sociais da SER (2023)**, as metas sociais visam garantir que a restauração fortaleça o bem-estar humano e a economia tradicional da Ilha de Itamaracá:
+Além da recuperação biótica e abiótica, o projeto estabelece metas focadas nos serviços ecossistêmicos (Roda de Benefícios Sociais da SER):
 
-* **Segurança Alimentar e Sustentabilidade da Pesca Artesanal:**  
-  * **Meta:** Aumentar a previsibilidade e a biomassa do estoque pesqueiro de crustáceos e peixes beneficiados localmente, garantindo a manutenção da renda de pelo menos 150 famílias de pescadores vinculadas à Colônia Z-11 e ao setor de beneficiamento familiar de carne de siri até o Ano 4.
-* **Proteção Costeira e Regulação do Microclima Urbano:**  
-  * **Meta:** Consolidar a faixa de manguezal de borda como barreira natural verde contra a erosão marinha e ressacas nas áreas periurbanas de Itamaracá, reduzindo a vulnerabilidade física das edificações periféricas até o Ano 5.
+1. **Recuperação do Serviço de Berçário Pesqueiro:** Garantir a qualidade do habitat entremarés para proteção, crescimento somático e recrutamento de crustáceos e peixes estuarinos, sustentando o estoque pesqueiro regional.
+2. **Filtragem e Depuração Hídrica:** Utilizar a capacidade biogeoquímica do manguezal e dos biofiltros instalados para retenção de nutrientes, excesso de matéria orgânica e metais pesados provenientes da drenagem urbana.
+3. **Proteção Costeira e Retenção de Carbono:** Fortalecer a barreira vegetal nativa para atenuação da energia de marés e prevenção da erosão costeira no Bairro do Pilar, promovendo o sequestro contínuo de carbono azul (*Blue Carbon*).
 
 ---
 
-## 5. Horizonte Temporal e Protocolo de Revisão Adaptativa
+## 4. Benefícios Socioeconômicos e Engajamento Comunitário
 
-O projeto opera sob um **horizonte temporal de 10 anos**, dividido em fases estratégicas de acompanhamento:
+1. **Fortalecimento da Pesca Artesanal:** Manutenção da renda e segurança alimentar de mais de 150 famílias vinculadas à Colônia de Pescadores Z-11 de Itamaracá.
+2. **Inclusão Social e Trabalho Remunerado:** Contratação direta e remuneração de pescadores locais para a montagem, instalação e manutenção quinzenal das ecobarreiras e biofiltros.
+3. **Educação Ambiental e Ciência Cidadã:** Envolvimento de alunos de escolas públicas municipais e marisqueiras no monitoramento participativo do lixo plástico e na proteção dos propágulos.
 
-```
-[Ano 1 — Implantação e Gestão] ➔ [Ano 2 a 3 — Monitoramento e Ajuste] ➔ [Ano 5 — Consolidação] ➔ [Ano 10 — Autossustentação]
-```
+---
 
-* **Ano 1 (Fase Inicial):** Instalação de ecobarreiras, biofiltros e desobstrução hidrológica.
-* **Ano 2 a 3 (Fase de Consolidação):** Avaliação do recrutamento natural e qualidade da água.
-* **Ano 5 (Primeira Revisão Formal):** Avaliação detalhada do dossel e da estrutura comunitária.
-* **Ano 10 (Consolidação de Longo Prazo):** Verificação da autossustentação do ecossistema e fluxo de serviços socioambientais.
+## 5. Horizonte Temporal e Manejo Adaptativo
 
-::: {.callout-tip}
-## Protocolo de Manejo Adaptativo
-O monitoramento semestral dos indicadores alimentará um ciclo de **manejo adaptativo**. Caso algum indicador não atinja 70% da meta prevista no Ano 3, as técnicas de intervenção serão revisadas (ex.: reforço de nucleação ou readequação do fluxo hídrico dos biofiltros) em consulta com o conselho gestor da APA de Santa Cruz.
-:::
+O horizonte temporal do projeto compreende **10 anos**, divididos em três ciclos operacionais:
+* **Fase de Implantação e Mitigação (Anos 1 a 2):** Instalação de biofiltros, ecobarreiras e desobstrução hidrológica.
+* **Fase de Consolidação da Regeneração (Anos 3 a 5):** Avaliação do recrutamento da fauna e regeneração natural de plântulas.
+* **Fase de Monitoramento de Longo Prazo (Anos 6 a 10):** Acompanhamento da estrutura do dossel e serviços ecossistêmicos.
+
+O **manejo adaptativo** será acionado anualmente: caso os indicadores de oxigênio dissolvido ou densidade de plântulas fiquem abaixo de 70% do valor-alvo no Ano 3, serão implementadas ações corretivas (revisão do leito dos biofiltros ou adensamento por nucleação).

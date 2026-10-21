@@ -3,18 +3,22 @@
 
 :root {
   --bs-primary: #1b4332;
-  --bs-primary-rgb: 27, 67, 50;
-  --bs-secondary: #0077b6;
-  --bs-success: #2d6a4f;
-  --bs-info: #0a9396;
-  --bs-link-color: #2d6a4f;
-  --bs-link-hover-color: #1b4332;
+  --bs-secondary: #2d6a4f;
+  --bs-success: #40916c;
+  --bs-info: #52b788;
+  --bs-light: #f8f9fa;
+  --bs-dark: #081c15;
 }
 
-/* Navbar Customizada */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #212529;
+  background-color: #ffffff;
+  line-height: 1.6;
+}
+
 .navbar {
-  background: linear-gradient(135deg, #0f3d3e 0%, #1b4332 100%) !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  background-color: #1b4332 !important;
   border-bottom: 3px solid #52b788;
 }
 
@@ -25,109 +29,81 @@
 }
 
 .navbar-nav .nav-link:hover {
-  color: #74c69d !important;
+  color: #d8f3dc !important;
 }
 
-.navbar-nav .nav-link.active {
-  color: #94d2bd !important;
-  font-weight: 700;
-  border-bottom: 2px solid #94d2bd;
-}
-
-/* Títulos das Páginas */
-h1, h2, h3, .title {
+h1, h2, h3, h4 {
   color: #1b4332;
-  font-weight: 700;
-  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-weight: 600;
 }
 
-h1.title {
-  border-bottom: 3px solid #52b788;
+h1 {
+  border-bottom: 2px solid #40916c;
   padding-bottom: 8px;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 h2 {
-  border-left: 4px solid #2d6a4f;
-  padding-left: 10px;
-  margin-top: 1.5em;
+  margin-top: 30px;
+  border-bottom: 1px solid #b7e4c7;
+  padding-bottom: 5px;
 }
 
-/* Tabelas com Estilo de Manguezal */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1.5em 0;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-thead th, table.table thead th {
-  background-color: #1b4332 !important;
-  color: #ffffff !important;
-  font-weight: 600;
-  text-transform: uppercase;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  padding: 12px;
-}
-
-tbody tr:nth-child(even) {
-  background-color: #f4f7f5;
-}
-
-tbody tr:hover {
-  background-color: #e8f0ec;
-}
-
-/* Callouts / Caixas de Destaque */
 .callout {
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  border-left-width: 5px !important;
+  border-radius: 4px;
 }
 
 .callout-note {
   border-left-color: #2d6a4f !important;
-  background-color: #f0f7f3 !important;
-}
-
-.callout-note .callout-header {
-  color: #1b4332 !important;
-  font-weight: 600;
+  background-color: #f4f9f5;
 }
 
 .callout-info {
-  border-left-color: #0077b6 !important;
-  background-color: #edf7fc !important;
-}
-
-.callout-info .callout-header {
-  color: #005f73 !important;
-  font-weight: 600;
+  border-left-color: #52b788 !important;
+  background-color: #f0fdf4;
 }
 
 .callout-warning {
-  border-left-color: #ca6702 !important;
-  background-color: #fdf8f2 !important;
+  border-left-color: #d97706 !important;
+  background-color: #fffbe2;
 }
 
-/* Sumário Lateral (TOC) */
-#TOC {
-  border-left: 2px solid #d8e2dc;
-  padding-left: 12px;
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+  vertical-align: top;
+  border-color: #dee2e6;
 }
 
-#TOC a.nav-link.active {
-  color: #1b4332 !important;
-  font-weight: bold;
-  border-left: 2px solid #2d6a4f;
+table th {
+  background-color: #1b4332;
+  color: #ffffff;
+  padding: 10px;
+  text-align: left;
 }
 
-/* Rodapé das Imagens / Captions */
-figure figcaption {
-  color: #525252;
-  font-style: italic;
+table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+table tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.img-fluid {
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 20px 0;
+  background-color: #081c15;
+  color: #b7e4c7;
   text-align: center;
-  margin-top: 6px;
+  font-size: 0.9em;
 }

@@ -14,61 +14,59 @@ Este documento contou com o auxílio de ferramenta de inteligência artificial e
 
 Considerando a classificação da Ilha de Itamaracá como um **Ecossistema Híbrido com alta resiliência biótica** (Hobbs et al., 2006; Suganuma & Durigan, 2018), as intervenções operacionais priorizam a **mitigação de estressores abióticos** e a **restauração assistida**, dispensando plantios homogêneos de grande escala em favor de soluções baseadas na natureza (SbN).
 
-### 1.1 Solução de Infraestrutura Verde: Wetlands Construídas (Biofiltros)
-* **Objetivo:** Tratar efluentes sanitários domésticos *in natura* descarregados diretamente nos canais estuarinos da orla periurbana.
-* **Metodologia:** Instalação de sistemas de alagados construídos de fluxo subsuperficial horizontal localizados na zona de transição urbano-mangue.
-* **Mecanismo Ecológico:** O efluente passa por leito filtrante de brita e areia cultivado com macrófitas aquáticas nativas (*Typha domingensis* e *Cyperus papyrus*). As raízes promovem a oxigenação do meio e a remoção de matéria orgânica (redução de 80-90% da DBO), nutrientes (N e P) e coliformes por assimilação biológica e filtragem física, eliminando os focos de anoxia no sedimento de mangue.
+### 1.1 Soluções Baseadas na Natureza para Tratamento de Efluentes (Biofiltros / Wetlands Construídas)
+* **Técnica:** Instalação de sistemas de alagados construídos de fluxo subsuperficial horizontal (*Constructed Wetlands*) nos pontos de saída de valas de drenagem urbana na borda periurbana (Pilar/Jaguaribe).
+* **Mecanismo:** Leito escavado preenchido com brita, areia e vegetação macrófita nativa (*Typha domingensis* e *Eleocharis sp.*). A água residual passa pelo substrato onde microrganismos rizoféricos degradam a matéria orgânica, reduzindo de 80% a 90% a DBO e retendo nutrientes (nitrogênio e fósforo) antes de atingir o manguezal.
 
-### 1.2 Controle Mecânico de Contaminação: Ecobarreiras Flutuantes Comunitárias
-* **Objetivo:** Interceptar e reter resíduos sólidos urbanos (macroplásticos, garrafas PET, embalagens) transportados pela drenagem urbana e pelas marés antes da sua fixação no sistema radicular de *Rhizophora mangle*.
-* **Metodologia:** Montagem de barreiras flutuantes utilizando galões plásticos reutilizados de 20L interligados por redes de alta resistência, ancoradas nas fozes dos principais canais de drenagem urbana.
-* **Operacionalização:** Coleta e triagem semanal dos resíduos retidos realizada em parceria com a Colônia de Pescadores Z-11 e cooperativas locais de catadores, destinando o plástico para reciclagem.
+### 1.2 Ecobarreiras Flutuantes Comunitárias para Retenção de Plásticos
+* **Técnica:** Instalação de barreiras flutuantes articuladas com galões plásticos reciclados de 20L e redes de náilon de pesca reutilizadas, ancoradas transversalmente nos canais de maré e fozes de drenagem.
+* **Mecanismo:** Retenção mecânica de macroplásticos e resíduos flutuantes levados pelas águas pluviais, impedindo seu engolfamento no sistema radicular de *Rhizophora mangle*. A limpeza e pesagem dos resíduos serão feitas quinzenalmente por pescadores remunerados.
 
-### 1.3 Restauração Assistida e Manejo da Vegetação Halófita
-* **Objetivo:** Desobstruir o fluxo hídrico e restabelecer a hidrodinâmica entremarés para favorecer a dispersão e o recrutamento espontâneo de propágulos nativos.
-* **Ações:**
-  1. **Desobstrução de Canais de Maré:** Remoção manual de entulhos e sedimentos compactados que impedem o fluxo de maré em clareiras de borda.
-  2. **Nucleação com Módulos de Bambu (Protetores de Propágulos):** Em trechos de borda sujeitos a forte erosão por marés ou pisoteio, instalaremos pequenos núcleos de estacas de bambu para retenção física de propágulos de *Rhizophora mangle*, *Avicennia schaueriana* e *Laguncularia racemosa* trazidos naturalmente pelas águas.
+### 1.3 Restauração Assistida e Nucleação em Clareiras de Borda
+* **Técnica:** Desobstrução manual de microcanais de maré assoreados por entulho e instalação de módulos de estacas de bambu (*caxambu*) dispostos em formato de V aberto para a corrente de maré.
+* **Mecanismo:** As estacas de bambu reduzem a velocidade da água na maré alta, promovendo a deposição de sedimento e a retenção física espontânea de propágulos nativos trazidos por hidrocoria, dispensando custos com viveiros de mudas.
 
 ---
 
 ## 2. Cronograma Operacional Graduado (Anos 1 a 10)
 
-O plano de ação está estruturado em quatro fases graduadas para assegurar a sustentabilidade técnica e social ao longo de uma década:
+A Tabela 1 apresenta a distribuição temporal das etapas executivas e de monitoramento do projeto.
 
-| Fase | Período | Ações Principais | Metas de Curto/Longo Prazo |
-| :--- | :---: | :--- | :--- |
-| **Fase 1: Mobilização e Licenciamento** | Ano 1 | Mobilização comunitária, criação do Comitê de Bacia/APA e licenciamento ambiental Simplificado junto à CPRH. | 100% dos atores mapeados formalizados; licença concedida. |
-| **Fase 2: Implantação de Infraestrutura** | Anos 1–2 | Construção das wetlands piloto e instalação das 4 ecobarreiras prioritárias na orla. | Intercepção de 80% do lixo flutuante; início do tratamento de efluentes. |
-| **Fase 3: Restauração Assistida e Manejo** | Anos 2–5 | Desobstrução hidrológica e instalação de núcleos de retenção de propágulos nas clareiras. | Recuperação do dossel em 50% das clareiras identificadas. |
-| **Fase 4: Consolidação e Monitoramento** | Anos 5–10 | Monitoramento da qualidade da água, estoque do berçário de *Callinectes marginatus* e transferência de gestão. | Cobertura florestal mantida >30%; autonomia da comunidade na manutenção. |
+### Tabela 1: Cronograma físico de execução e monitoramento operacional.
+
+| Etapa / Atividade | Ano 1 | Ano 2 | Ano 3 | Anos 4-5 | Anos 6-10 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **1. Mobilização, Licenciamento e Oficinas Comunitárias** | **X** | | | | |
+| **2. Construção e Teste dos Biofiltros (Wetlands)** | **X** | **X** | | | |
+| **3. Ancoragem e Operação das Ecobarreiras Flutuantes** | **X** | **X** | **X** | **X** | **X** |
+| **4. Desobstrução de Canais e Instalação de Módulos de Nucleação** | | **X** | **X** | | |
+| **5. Monitoramento da Qualidade da Água e Resíduos Retidos** | **X** | **X** | **X** | **X** | **X** |
+| **6. Avaliação da Regeneração Natural e Recrutamento da Fauna** | | **X** | **X** | **X** | **X** |
+| **7. Relatórios de Avaliação e Manejo Adaptativo** | | | **X** | **X** | **X** |
 
 ---
 
 ## 3. Análise de Viabilidade Financeira e Orçamento Discriminado
 
-A opção por soluções baseadas na natureza e restauração assistida reduz drasticamente os custos quando comparada a projetos tradicionais de engenharia dura e plantio total.
+O orçamento total estimado para a implantação e operação durante o ciclo inicial de 5 anos é de **R$ 74.000,00**, valor enxuto e viável proporcionado pelo foco na restauração passiva e assistida. A Tabela 2 discrimina os custos por rubrica.
 
-### Orçamento Estimativo de Implantação e Manutenção (Ciclo de 5 Anos)
+### Tabela 2: Orçamento detalhado das intervenções (Ciclo de 5 anos).
 
-| Item / Categoria | Descrição / Especificação | Quantidade / Unidade | Custo Unitário (R$) | Custo Total (R$) |
+| Item / Rubrica | Descrição e Especificação Técnica | Quantidade / Unidade | Custo Unitário (R$) | Custo Total (R$) |
 | :--- | :--- | :---: | :---: | :---: |
-| **Insumos para Biofiltros** | Brita, areia, tubulações de PVC, geomembrana impermeabilizante e mudas de macrófitas. | 2 unidades piloto | R$ 12.000,00 | R$ 24.000,00 |
-| **Materiais para Ecobarreiras** | Galões de 20L, cordas de polietileno, redes de pesca recicladas e poitas de concreto. | 4 unidades | R$ 1.500,00 | R$ 6.000,00 |
-| **Mão de Obra Local** | Contratação de pescadores e moradores para montagem e manutenção (diárias). | 120 diárias / ano | R$ 150,00 | R$ 18.000,00 |
-| **Módulos de Nucleação** | Estacas de bambu e amarras biodegradáveis para retenção de propágulos. | 50 núcleos | R$ 60,00 | R$ 3.000,00 |
-| **Equipamentos de Proteção (EPIs)** | Botas de borracha, luvas reforçadas e coletes salva-vidas. | 20 kits | R$ 250,00 | R$ 5.000,00 |
-| **Análises de Água e Solo** | Monitoramento semestral de DBO, salinidade, coliformes e oxigênio dissolvido. | 10 campanhas | R$ 1.200,00 | R$ 12.000,00 |
-| **Oficinas de Educação Ambiental** | Capacitação e material didático para a comunidade e escolas da ilha. | 6 oficinas | R$ 1.000,00 | R$ 6.000,00 |
-| **Total Estimado (5 Anos)** | — | — | — | **R$ 74.000,00** |
+| **Biofiltros / Wetlands** | Escavação manual, geomembrana, brita, areia e mudas de macrófitas | 3 unidades | R$ 6.000,00 | R$ 18.000,00 |
+| **Ecobarreiras Flutuantes** | Galões de 20L reciclados, redes de náilon, poitas de concreto e cabos | 4 unidades | R$ 1.500,00 | R$ 6.000,00 |
+| **Módulos de Nucleação** | Estacas de bambu e amarras biodegradáveis para retenção de propágulos | 50 núcleos | R$ 60,00 | R$ 3.000,00 |
+| **Diárias de Pescadores** | Remuneração para instalação, limpeza quinzenal de barreiras e mutirões | 240 diárias | R$ 100,00 | R$ 24.000,00 |
+| **Análises Laboratoriais** | Laudos físico-químicos (OD, DBO, coliformes, salinidade) trimestrais | 20 campanhas | R$ 600,00 | R$ 12.000,00 |
+| **Oficinas e Material Educativo** | Cartilhas, lanches para reuniões comunitárias e placas educativas | 10 oficinas | R$ 1.100,00 | R$ 11.000,00 |
+| **CUSTO TOTAL DO PROJETO** | **Soma de todas as rubricas operacionais e comunitárias** | -- | -- | **R$ 74.000,00** |
 
 ---
 
 ## 4. Fontes Potenciais de Financiamento
 
-O orçamento enxuto de R$ 74.000,00 viabiliza a captação de recursos por múltiplas vias públicas e privadas:
-
-1. **Compensação Ambiental (SEUC / CPRH):** Recursos oriundos de medidas compensatórias de empreendimentos imobiliários ou industriais licenciados na Região Metropolitana do Recife ou no Complexo de Goiana.
-2. **Fundo Estadual de Meio Ambiente de Pernambuco (FEMA/PE):** Submissão da proposta aos editais anuais voltados para Unidades de Conservação e Recursos Hídricos.
+1. **Fundo Estadual de Meio Ambiente (FEMA / Pernambuco):** Editais de apoio a projetos comunitários em Unidades de Conservação Estaduais geridos pela CPRH.
+2. **Compensação Ambiental (SEUC / SNUC):** Recursos de medidas mitigatórias e compensatórias de empreendimentos industriais e imobiliários instalados no entorno do Canal de Santa Cruz.
 3. **Fundo Nacional do Meio Ambiente (FNMA / MMA):** Linhas de financiamento para recuperação de Áreas de Preservação Permanente (APP) e ecossistemas costeiros/estuarinos.
-4. **Parcerias Público-Privadas (Setor Turístico e Imobiliário):** Ações de responsabilidade socioambiental de hotéis, marinas e pousadas da Ilha de Itamaracá interessadas na balneabilidade da orla e preservação da paisagem.
+4. **Parcerias com o Setor Privado:** Ações de Responsabilidade Socioambiental de empresas de turismo e comércio local da Ilha de Itamaracá.

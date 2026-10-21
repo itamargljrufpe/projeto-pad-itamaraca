@@ -1,5 +1,5 @@
 ---
-title: "Fontes de Degradação e Diagnóstico de Limiares"
+title: "Seção 2 — Fontes de Degradação e Diagnóstico de Limiares"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-07"
 format: html
@@ -35,12 +35,12 @@ A avaliação da capacidade de recuperação da Ilha de Itamaracá apoia-se na a
 
 ### 2.2 Limiares Bióticos (Propágulos e Fauna)
 * **Condição Observada:** A vegetação nativa do manguezal na ilha (*Rhizophora mangle*, *Avicennia schaueriana* e *Laguncularia racemosa*) apresenta alta capacidade reprodutiva e dispersão anemocórica e hidrocorica de propágulos.
-* **Função de Berçário Preservada:** Os dados biológicos do PIBIC demonstram que as zonas estuarinas internas de Itamaracá sustentam o recrutamento de juvenis de siri-pimenta (*Callinectes marginatus*), com prevalência de **77,78% de fêmeas imaturas e 67,51% de machos juvenis**. 
+* **Função de Berçário Preservada:** Os dados biológicos do PIBIC demonstraram que as zonas estuarinas internas de Itamaracá sustentam o recrutamento de juvenis de siri-pimenta (*Callinectes marginatus*), com prevalência de **77,78% de fêmeas imaturas e 67,51% de machos juvenis**. 
 * **Diagnóstico de Transposição de Limiar:** O limiar biótico **não foi transposto**. Existe banco de propágulos nativos ativo e fauna estuarina recrutando no local. A regeneração natural é limitada apenas pontualmente por barreiras abióticas (resíduos plásticos e compactação de solo nas bordas urbanas).
 
 ### 2.3 Limiares de Paisagem (Matriz e Conectividade)
-* **Condição Observada:** A análise histórica do uso do solo via plataforma MapBiomas (1985–2023) confirma que o ecossistema de manguezal na APA de Santa Cruz manteve e expandiu sua cobertura espacial na calha do estuário, impulsionado pela dinâmica de sedimentação e resiliência hídrica.
-* **Diagnóstico de Transposição de Limiar:** O Canal de Santa Cruz atua como um corredor ecológico funcional contínuo. O limiar de paisagem **permanece preservado**, garantindo conectividade entre as bacias fluviais e o oceano.
+* **Condição Observada:** A análise histórica da cobertura da terra via MapBiomas (1985–2025) confirma que a Formação Florestal/Manguezal na ilha expandiu de **1.112,57 ha (13,38%)** em 1985 para **2.259,58 ha (27,19%)** em 2025 (ganho de **+1.147,01 ha**).
+* **Diagnóstico de Transposição de Limiar:** Atingindo quase 30% de cobertura florestal e manguezal na matriz insular, o corredor ecológico estuarino do Canal de Santa Cruz **permanece plenamente funcional**. O limiar de paisagem está preservado.
 
 ---
 

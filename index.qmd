@@ -8,10 +8,6 @@ format: html
 
 # Bem-vindo ao Workbook do Projeto
 
-![Manguezal Estuarino da APA Estuarina de Santa Cruz — Ilha de Itamaracá, PE](banner_capa.png){width=100%}
-
-
-
 Este site reúne a proposta técnica e científica do **Projeto de Intervenção em Área Degradada (PAD)**, desenvolvido para a disciplina de Ecologia da Restauração (UFPE). 
 
 O projeto tem como foco o ecossistema estuarino e de manguezal periurbano da **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**, no município da Ilha de Itamaracá, Pernambuco.
