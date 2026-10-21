@@ -1,5 +1,5 @@
 ---
-title: "Seção 6 — Síntese Integradora e Reflexão Crítica"
+title: "6. Síntese Integradora e Reflexão Crítica do Projeto da Ilha de Itamaracá"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-09"
 format: html

@@ -1,6 +1,6 @@
 ---
 title: "Projeto de Intervenção em Área Degradada (PAD)"
-subtitle: "Restauração Ecológica no Manguezal Periurbano da APA Estuarina de Santa Cruz (Ilha de Itamaracá, PE)"
+subtitle: "Plano Integrado de Restauração Ecológica e Gestão Territorial para a Ilha de Itamaracá (PE)"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-01"
 format: html
@@ -10,26 +10,27 @@ format: html
 
 Este site reúne a proposta técnica e científica do **Projeto de Intervenção em Área Degradada (PAD)**, desenvolvido para a disciplina de Ecologia da Restauração (UFPE). 
 
-O projeto tem como foco o ecossistema estuarino e de manguezal periurbano da **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**, no município da Ilha de Itamaracá, Pernambuco.
+A unidade de planejamento e área de estudo escolhida abrange a **totalidade do território da Ilha de Itamaracá (8.311,91 hectares)**, localizada no litoral norte de Pernambuco. O projeto aborda a ilha como um ecossistema insular e estuarino integrado, inserido no contexto regional da **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**.
 
 ::: {.callout-info}
-## Resumo do Projeto
-- **Localização:** Canal de Santa Cruz, Ilha de Itamaracá - PE
-- **Coordenadas de Referência (Orla do Pilar):** 7°44'50" S, 34°50'25" O
-- **Área do Território Mapeado:** 8.311,91 hectares (com foco de amostragem direta em 1,8 ha)
-- **Ecossistema:** Manguezal estuarino e vegetação de transição (Mata Atlântica)
-- **Problemática Principal:** Expansão urbana periurbana, lançamento de efluentes sanitários, acúmulo de lixo plástico e degradação da qualidade do berçário pesqueiro (*Callinectes marginatus* e peixes estuarinos).
+## Resumo do Escopo do Projeto
+- **Área Selecionada (Unidade de Restauração):** Toda a extensão territorial da **Ilha de Itamaracá** (**8.311,91 hectares** / **83,12 km²**).
+- **Enquadramento de Conservação Regional:** Área de Proteção Ambiental (APA) Estuarina de Santa Cruz (Decreto Estadual nº 32.488/2008).
+- **Limites Geográficos Insulares:** Banhada a leste pelo Oceano Atlântico e a oeste pelo Canal de Santa Cruz.
+- **Sítio Focal de Intervenção Piloto:** Orla periurbana do Bairro do Pilar / Canal de Santa Cruz (setor de 5,4 hectares).
+- **Ecossistemas Nativo-Dominantes:** Manguezal estuarino, vegetação de restinga e florestas costeiras de transição (Mata Atlântica).
+- **Problemática Principal:** Pressão urbana desordenada, déficit de saneamento com descarte de efluentes sanitários, contaminação do berçário pesqueiro artesanal (*Callinectes marginatus* e peixes) e assimetrias socioambientais no uso do território insular.
 :::
 
 ---
 
 ## Estrutura do Documento
 
-Acesse os tópicos no menu superior para navegar pelas 6 seções do projeto:
+Acesse os tópicos no menu superior para navegar pelas etapas do projeto:
 
-1. **[1. Memorial Descritivo](secao1.qmd):** Caracterização geográfica, ecológica e série temporal do uso do solo (MapBiomas 1985–2025).
-2. **[2. Limiares e Degradação](secao2.qmd):** Mapeamento de estressores, avaliação de limiares ecológicos e resiliência.
-3. **[3. Metas](secao3.qmd):** Definição de metas restaurativas operacionais (Estrela e Roda de Benefícios da SER).
-4. **[4. Atores e Governança](secao4.qmd):** Mapeamento de partes interessadas, ecologia política e governança participativa.
-5. **[5. Intervenções](secao5.qmd):** Soluções Baseadas na Natureza (biofiltros, ecobarreiras), cronograma e orçamento.
-6. **[6. Síntese](secao6.qmd):** Matriz integradora, reflexão crítica sobre limites e considerações finais.
+1. **[1. Memorial Descritivo](secao1.qmd):** Caracterização geográfica, ecológica e histórica de toda a Ilha de Itamaracá.
+2. **[2. Limiares e Degradação](secao2.qmd):** Diagnóstico das fontes de degradação e resiliência no território insular.
+3. **[3. Metas](secao3.qmd):** Definição de metas e indicadores de restauração para a ilha.
+4. **[4. Governança e Atores](secao4.qmd):** Mapeamento de partes interessadas, ecologia política e justiça ambiental na ilha (Exercício 2).
+5. **[5. Intervenções](secao5.qmd):** Plano de ação, infraestrutura verde (wetlands/ecobarreiras) e viabilidade econômica.
+6. **[6. Síntese](secao6.qmd):** Quadro resumido, cronograma e considerações finais.

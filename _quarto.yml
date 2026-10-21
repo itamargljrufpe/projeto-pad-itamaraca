@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "PAD — APA Estuarina de Santa Cruz"
-  description: "Projeto de Intervenção em Área Degradada — Ilha de Itamaracá, PE"
+  title: "Restauração da Ilha de Itamaracá"
+  description: "Plano Integrado de Restauração Ecológica e Gestão Territorial para a Ilha de Itamaracá, PE"
   navbar:
     left:
       - href: index.qmd

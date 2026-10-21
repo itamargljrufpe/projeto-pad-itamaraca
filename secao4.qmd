@@ -1,5 +1,5 @@
 ---
-title: "Seção 4 — Mapeamento de Atores Socioambientais e Análise de Governança (Exercício 2)"
+title: "4. Mapeamento de Atores, Governança e Ecologia Política da Ilha de Itamaracá (Exercício 2)"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-21"
 format: html

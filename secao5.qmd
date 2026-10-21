@@ -1,5 +1,5 @@
 ---
-title: "Seção 5 — Planejamento Operacional das Intervenções e Viabilidade Econômica"
+title: "5. Planejamento Operacional das Intervenções e Viabilidade Econômica na Ilha de Itamaracá"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-09"
 format: html
