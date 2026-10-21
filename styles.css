@@ -1,13 +1,5 @@
-/*-- scss:rules --*/
 /* Theme Customizado: Manguezal e Estuário (APA Santa Cruz / Itamaracá) */
-
-/* Paleta de Cores:
-   - Verde Mangue Profundo: #1b4332
-   - Verde Folha de Mangue: #2d6a4f
-   - Verde Menta / Água Estuarina: #52b788 / #74c69d
-   - Azul Estuarino / Oceânico: #0077b6
-   - Fundo Suave / Areia Estuarina: #f8f9fa / #f4f7f5
-*/
+/*-- scss:rules --*/
 
 :root {
   --bs-primary: #1b4332;
@@ -29,6 +21,7 @@
 .navbar-brand, .navbar-nav .nav-link {
   color: #ffffff !important;
   font-weight: 500;
+  white-space: nowrap !important;
 }
 
 .navbar-nav .nav-link:hover {

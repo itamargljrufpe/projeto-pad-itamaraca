@@ -8,28 +8,32 @@ format: html
 
 # Bem-vindo ao Workbook do Projeto
 
+![Manguezal Estuarino da APA Estuarina de Santa Cruz — Ilha de Itamaracá, PE](banner_capa.png){width=100%}
+
+
+
 Este site reúne a proposta técnica e científica do **Projeto de Intervenção em Área Degradada (PAD)**, desenvolvido para a disciplina de Ecologia da Restauração (UFPE). 
 
-O projeto tem como foco uma área de manguezal periurbano degradada na **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**, no município da Ilha de Itamaracá, Pernambuco.
+O projeto tem como foco o ecossistema estuarino e de manguezal periurbano da **Área de Proteção Ambiental (APA) Estuarina de Santa Cruz**, no município da Ilha de Itamaracá, Pernambuco.
 
 ::: {.callout-info}
 ## Resumo do Projeto
 - **Localização:** Canal de Santa Cruz, Ilha de Itamaracá - PE
-- **Coordenadas de Referência:** 7°46'36.48" S, 34°53'43.04" O
-- **Área de Intervenção:** 5,4 hectares
-- **Ecossistema:** Manguezal estuarino (Mata Atlântica)
-- **Problemática Principal:** Expansão urbana desordenada, lançamento de efluentes e xenobióticos, e perda de habitat de berçário pesqueiro artesanal (*Callinectes marginatus* e peixes estuarinos).
+- **Coordenadas de Referência (Orla do Pilar):** 7°44'50" S, 34°50'25" O
+- **Área do Território Mapeado:** 8.311,91 hectares (com foco de amostragem direta em 1,8 ha)
+- **Ecossistema:** Manguezal estuarino e vegetação de transição (Mata Atlântica)
+- **Problemática Principal:** Expansão urbana periurbana, lançamento de efluentes sanitários, acúmulo de lixo plástico e degradação da qualidade do berçário pesqueiro (*Callinectes marginatus* e peixes estuarinos).
 :::
 
 ---
 
 ## Estrutura do Documento
 
-Acesse os tópicos no menu superior para navegar pelas etapas do projeto:
+Acesse os tópicos no menu superior para navegar pelas 6 seções do projeto:
 
-1. **[1. Memorial Descritivo](secao1.qmd):** Caracterização geográfica, ecológica e histórica da área.
-2. **[2. Limiares e Degradação](secao2.qmd):** Diagnóstico de fontes de degradação e resiliência.
-3. **[3. Metas](secao3.qmd):** Definição de metas e indicadores de restauração.
-4. **[4. Atores e Governança](secao4.qmd):** Mapeamento de partes interessadas e arranjo institucional.
-5. **[5. Intervenções](secao5.qmd):** Plano de ação, técnicas de restauração e viabilidade.
-6. **[6. Síntese](secao6.qmd):** Quadro resumido, cronograma e considerações finais.
+1. **[1. Memorial Descritivo](secao1.qmd):** Caracterização geográfica, ecológica e série temporal do uso do solo (MapBiomas 1985–2025).
+2. **[2. Limiares e Degradação](secao2.qmd):** Mapeamento de estressores, avaliação de limiares ecológicos e resiliência.
+3. **[3. Metas](secao3.qmd):** Definição de metas restaurativas operacionais (Estrela e Roda de Benefícios da SER).
+4. **[4. Atores e Governança](secao4.qmd):** Mapeamento de partes interessadas, ecologia política e governança participativa.
+5. **[5. Intervenções](secao5.qmd):** Soluções Baseadas na Natureza (biofiltros, ecobarreiras), cronograma e orçamento.
+6. **[6. Síntese](secao6.qmd):** Matriz integradora, reflexão crítica sobre limites e considerações finais.

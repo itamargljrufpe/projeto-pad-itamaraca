@@ -10,17 +10,19 @@ website:
       - href: index.qmd
         text: "Apresentação"
       - href: secao1.qmd
-        text: "1. Memorial Descritivo"
+        text: "1. Memorial"
       - href: secao2.qmd
-        text: "2. Limiares e Degradação"
+        text: "2. Limiares"
       - href: secao3.qmd
         text: "3. Metas"
       - href: secao4.qmd
-        text: "4. Atores e Governança"
+        text: "4. Governança"
       - href: secao5.qmd
         text: "5. Intervenções"
       - href: secao6.qmd
         text: "6. Síntese"
+      - href: referencias.qmd
+        text: "Referências"
 
 format:
   html:
@@ -28,5 +30,5 @@ format:
     css: styles.css
     toc: true
     toc-title: "Nesta página"
-    number-sections: true
+    number-sections: false
     code-fold: true

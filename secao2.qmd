@@ -1,5 +1,5 @@
 ---
-title: "Seção 2 — Fontes de Degradação e Diagnóstico de Limiares"
+title: "Fontes de Degradação e Diagnóstico de Limiares"
 author: "Itamar Guedes de Lima Júnior"
 date: "2026-10-07"
 format: html

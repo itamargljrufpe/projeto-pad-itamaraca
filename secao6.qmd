@@ -14,34 +14,30 @@ Este documento contou com o auxílio de ferramenta de inteligência artificial e
 
 A Tabela 1 consolida a arquitetura completa do Projeto de Intervenção em Área Degradada (PAD) na Ilha de Itamaracá, integrando os diagnósticos, limiares, metas, arranjo institucional e intervenções propostas nas Seções 1 a 5.
 
-### Tabela 1: Quadro síntese integrador do Projeto de Intervenção em Área Degradada (PAD)
+### Tabela 1: Matriz síntese integradora das etapas do PAD.
 
-| Componente do Projeto | Diagnóstico / Opção Selecionada | Fundamentação Científica e Normativa |
-| :--- | :--- | :--- |
-| **Ecossistema Alvo** | Manguezal estuarino e zona entremarés da Ilha de Itamaracá (8.311,91 ha) | APA Estuarina de Santa Cruz / Plano de Manejo CPRH |
-| **Classificação Ecológica** | Ecossistema Híbrido com Alta Resiliência Biótica | Hobbs et al. (2006, 2014) / Suganuma & Durigan (2018) |
-| **Trajetória do Uso do Solo** | Ganho de +1.147,01 ha de cobertura nativa (13,38% em 1985 para 27,19% em 2025) | Serie temporal MapBiomas Brasil (Coleção 10) |
-| **Limiares Ecológicos** | Abiótico (alterado/não rompido); Biótico (preservado); Paisagem (preservado) | Gradiente de salinidade e berçário de *Callinectes marginatus* (PIBIC UFPE) |
-| **Estratégia do Contínuo** | Mitigação de Estressores Abióticos e Restauração Assistida (sem plantio massivo) | Padrões Internacionais da SER (2019, 2023) |
-| **Intervenções Principais** | Wetlands construídas (biofiltros), ecobarreiras flutuantes e nucleação em bambu | Soluções Baseadas na Natureza (SbN) de baixo custo |
-| **Atores Chave e Governança** | Colônia de Pescadores Z-11, CPRH, Prefeitura de Itamaracá e UFPE | Comitê de Acompanhamento Restaurativo / Ecologia Política |
-| **Custo Total do Projeto** | R$ 74.000,00 (Ciclo operacional de 5 anos) | Compensação Ambiental (SEUC/CPRH) e FEMA/PE |
+| Seção do Projeto | Componente Principal | Diagnóstico / Definição Central | Encaminhamento Operacional |
+| :--- | :--- | :--- | :--- |
+| **Seção 1: Memorial** | Contexto Geográfico e Histórico | Ilha de Itamaracá (8.311,91 ha), APA Estuarina de Santa Cruz; expansão florestal de 13,38% (1985) para 27,19% (2025) | Foco de intervenção em 1,8 ha na orla periurbana do Bairro do Pilar |
+| **Seção 2: Limiares** | Diagnóstico de Degradação | Ecossistema Híbrido; limiares biótico e de paisagem preservados; estresse abiótico por esgoto e lixo plástico | Restauração assistida sem plantio massivo; mitigação abiótica na fonte |
+| **Seção 3: Metas** | Metas Restaurativas (SER) | Redução de 80% do esgoto na borda; recuperação da qualidade do berçário de *Callinectes marginatus* | Monitoramento por 10 anos via Estrela da SER e Roda de Benefícios |
+| **Seção 4: Governança** | Atores e Ecologia Política | Conflitos entre especulação imobiliária e pesca; forte sinergia com a Colônia Z-11 e CPRH | Co-gestão comunitária com remuneração de pescadores locais |
+| **Seção 5: Intervenções** | Plano de Ação e Custos | Soluções Baseadas na Natureza (biofiltros, ecobarreiras flutuantes e nucleação) | Orçamento de R$ 74.000,00 em 5 anos; financiamento via FEMA/FMA |
 
 ---
 
-## 2. Análise Crítica de Trade-offs e Limitações do Projeto
+## 2. Análise Crítica de Limites, Trade-offs e Incertezas
 
-### 2.1 Trade-offs Socioambientais Identificados
-1. **Curto Prazo vs. Longo Prazo:** A instalação dos biofiltros e ecobarreiras exige mobilização comunitária e ajustes no espaço urbano de orla no curto prazo, mas assegura a sustentabilidade dos estoques pesqueiros e a saúde pública no longo prazo.
-2. **Crescimento Urbano/Turístico vs. Integridade da APP:** O ordenamento territorial e a restrição a aterros clandestinos contêm a expansão imobiliária predatória, mas valorizam os imóveis regulares através da recuperação da qualidade da água e balneabilidade da praia.
+A execução da restauração ecológica em ambientes estuarinos periurbanos impõe desafios teóricos e práticos que exigem reflexão transparente:
 
-### 2.2 Limitações do Projeto
-* **Dependência do Saneamento Macro-regional:** Embora os biofiltros mitiguem o esgoto local, a solução definitiva da qualidade da água estuarina exige investimentos do Governo do Estado e Prefeituras na universalização do saneamento em toda a Bacia do Canal de Santa Cruz.
+1. **Incerteza Climática e Subida do Nível do Mar:** A aceleração das mudanças climáticas globais pode alterar os padrões de salinidade e aumentar a freqüência de marés meteorológicas extremas. Estruturas como biofiltros e ecobarreiras devem possuir arquitetura flexível para adaptação contínua.
+2. **Trade-offs entre Desenvolvimento Urbano e Conservação:** O crescimento populacional e o turismo na Ilha de Itamaracá geram demandas por infraestrutura que frequentemente colidem com a proteção estrita de Áreas de Preservação Permanente (APP). O projeto opta por não combater a presença humana, mas por integrar a comunidade à recuperação da qualidade ambiental.
+3. **Sustentabilidade Institucional de Longo Prazo:** O maior risco para a continuidade do projeto reside na descontinuidade de recursos públicos ou na troca de gestores municipais. A criação do Comitê Local com forte protagonismo da Colônia Z-11 busca blindar o projeto contra oscilações políticas.
 
 ---
 
-## 3. Reflexão Teórica Final e Conclusão
+## 3. Posicionamento Teórico e Considerações Finais
 
-A proposta desenvolvida para a Ilha de Itamaracá demonstra que a **Ecologia da Restauração contemporânea** deve afastar-se do paradigma de reconstituição intocada do passado pré-colonial, abraçando a realidade dos **ecossistemas híbridos e dinâmicos**. 
+Este projeto reafirma que a restauração ecológica moderna não consiste na busca ingênua por uma "natureza intocada do passado", mas na **reabilitação da resiliência e da funcionalidade de ecossistemas híbridos** (Hobbs et al., 2014; Suganuma & Durigan, 2018).
 
-A constatação empírica de que a cobertura florestal e de manguezal na ilha cresceu **1.147,01 hectares em 40 anos (MapBiomas)** confirma que a natureza possui forças auto-organizativas altamente eficientes. O papel do projeto não é substituir a dinâmica natural, mas atuar como facilitador — removendo as barreiras físicas e abióticas (esgoto e resíduos plásticos) para que a própria teia da vida estuarina prospere em harmonia com as populações tradicionais de pescadores.
+Ao combinar os dados científicos do PIBIC/UFPE sobre o papel de berçário do Canal de Santa Cruz com Soluções Baseadas na Natureza e governança comunitária, a proposta demonstra que é possível conciliar a conservação da biodiversidade com a dignidade socioeconômica das populações tradicionais da Ilha de Itamaracá.
